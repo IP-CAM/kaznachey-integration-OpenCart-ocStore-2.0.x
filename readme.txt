@@ -1,4 +1,4 @@
-#This module for integration with kaznachey is developed for OpenCart-ocStore 2.0.x
+This module for integration with kaznachey is developed for OpenCart-ocStore 2.0.x
  
 Before installing the module, you must register on the site kaznachey.ua (section "CONNECTION").
 After signing the contract, the following will be issued:
