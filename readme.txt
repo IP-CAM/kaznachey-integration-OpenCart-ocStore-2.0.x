@@ -17,3 +17,4 @@ Module installation procedure:
  - if necessary, indicate "Order status after payment";
  - activate the payment method in the "Status" item
 7. Save your changes. 
+
